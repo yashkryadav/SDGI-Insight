@@ -16,7 +16,7 @@ class MediaRes {
   static const steamCup = '$_baseVector/steam_cup.png';
   static const turquoisePotPlant = '$_baseVector/turquoise_pot_plant.png';
 
-  /// Backgrounds
+  static const sdgiLogo = '$_baseImage/sdgi_logo.png';
   static const homeScreenBackground = '$_baseImage/home_Screen_Background.png';
   static const authGradientBackground =
       '$_baseImage/auth_gradient_background.png';
@@ -28,6 +28,14 @@ class MediaRes {
       '$_baseImage/documents_gradient_background.png';
   static const leaderboardGradientBackground =
       '$_baseImage/leaderboard_gradient_background.png';
+
+  static const homePageSliderImg1 = '$_baseImage/slider_img1.jpg';
+  static const homePageSliderImg2 = '$_baseImage/slider_img2.jpg';
+  static const homePageSliderImg3 = '$_baseImage/slider_img3.jpg';
+  static const homePageSliderImg4 = '$_baseImage/slider_img4.jpg';
+  static const homePageSliderImg5 = '$_baseImage/slider_img5.jpg';
+  static const homePageSliderImg6 = '$_baseImage/slider_img6.jpg';
+  static const sdgiBanner = '$_baseImage/sdgi_banner.png';
 
   static const pageUnderConstruction =
       '$_baseLottie/page_under_construction.json';

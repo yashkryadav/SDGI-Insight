@@ -20,7 +20,7 @@ class GradientBackground extends StatelessWidget {
           fit: BoxFit.cover,
         ),
       ),
-      child: SafeArea(child: child),
+      child: Container(child: child),
     );
   }
 }
